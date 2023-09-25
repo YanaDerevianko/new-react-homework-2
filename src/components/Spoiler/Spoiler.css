@@ -1,0 +1,9 @@
+.spoiler-title {
+    color: blue;
+    font-size: 22px;
+    cursor: pointer;
+}
+.spoiler-text {
+    font-size: 18px;
+    padding: 10px;
+}
