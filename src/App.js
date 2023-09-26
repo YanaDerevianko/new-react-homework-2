@@ -4,6 +4,8 @@ import { TextContainer } from "./components/TextContainer/TextContainer";
 import { StyledCard } from "./components/StyledCard/StyledCard";
 import { Spoiler } from "./components/Spoiler/Spoiler";
 import { ModalWindowContainer } from "./components/ModalWindowContainer/ModalWindowContainer";
+import { ButtonComponentWrapper } from "./components/ButtonComponentWrapper/ButtonComponentWrapper";
+import { CommentComponentWrapper } from "./components/CommentComponentWrapper/CommentComponentWrapper";
 
 function App() {
   return (
@@ -20,7 +22,8 @@ function App() {
 
       <Spoiler />
       <ModalWindowContainer />
-    
+      <ButtonComponentWrapper />
+      <CommentComponentWrapper />
     </div>
   );
 }

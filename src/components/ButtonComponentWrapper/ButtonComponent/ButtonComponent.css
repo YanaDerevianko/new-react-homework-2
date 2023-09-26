@@ -1,0 +1,16 @@
+.icon-button {
+    width: 150px;
+    height: 57px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+    color: rgb(177, 31, 226);
+    background-color: #fcacf8;
+    border: 2px solid #5a0e56;
+}
+.text-btn {
+    padding: 20px;
+}
